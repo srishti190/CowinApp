@@ -1,5 +1,3 @@
-Cowin App
-
 COWIN APP - MACHINE CODING COUND
 
 Description
